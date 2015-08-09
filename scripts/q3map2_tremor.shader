@@ -382,7 +382,7 @@ tremor/F066C946F78E6914EB17756F2B89C1FF
 	}
 
 	{
-		map textures/tremor/metal_panels
+		map textures/niveus/metal_panels
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
@@ -405,7 +405,7 @@ tremor/4F6FEDB29D59D1ED89152DE1C7799EDF
 	}
 
 	{
-		map textures/tremor/metal_panels
+		map textures/niveus/metal_panels
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
@@ -427,7 +427,7 @@ tremor/D39F03FF472208079F1A5C6BEBBCC90D
 	}
 
 	{
-		map textures/tremor/metal_panels
+		map textures/niveus/metal_panels
 		blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}
