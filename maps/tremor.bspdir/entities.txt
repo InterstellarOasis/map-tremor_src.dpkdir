@@ -8,7 +8,7 @@
 }
 {
 "spawnflags" "8"
-"noise" "sound/ambient/electricspark.wav"
+"noise" "sound/ambient/electricspark"
 "targetname" "t18"
 "origin" "2904 -76 120"
 "classname" "target_speaker"
@@ -224,49 +224,49 @@
 }
 {
 "origin" "-184 -648 -496"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "spawnflags" "1"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "-176 -1152 -496"
 "classname" "target_speaker"
 }
 {
 "origin" "1092 -1384 -480"
-"noise" "sound/ambient/drone2.wav"
+"noise" "sound/ambient/drone2"
 "spawnflags" "1"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "608 -672 -496"
 "classname" "target_speaker"
 }
 {
 "origin" "1560 -672 -496"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "spawnflags" "1"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "1088 -168 -496"
 "classname" "target_speaker"
 }
 {
 "origin" "2456 -1544 -552"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "spawnflags" "1"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "2216 -1136 -496"
 "classname" "target_speaker"
 }
@@ -321,31 +321,31 @@
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "3312 744 118"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "3314 -884 118"
 "classname" "target_speaker"
 }
 {
 "origin" "3112 -74 118"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "spawnflags" "1"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/slowpulse2.wav"
+"noise" "sound/ambient/slowpulse2"
 "origin" "192 714 248"
 "classname" "target_speaker"
 }
 {
 "spawnflags" "1"
-"noise" "sound/ambient/water1.wav"
+"noise" "sound/ambient/water1"
 "origin" "1278 -1102 -54"
 "classname" "target_speaker"
 }
