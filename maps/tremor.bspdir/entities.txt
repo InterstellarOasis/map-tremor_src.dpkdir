@@ -1,0 +1,482 @@
+{
+"_q3map2_version" "2.5.17n-svnexported"
+"_q3map2_cmdline" "-leaktest -samplesize 16 -meta; -vis -saveprt; -light -faster -samples 2 -patchshadows"
+"_minLight" "5"
+"message" "Tremor :: Godmil and Vedacon"
+"_style1rgbGen" "wave sawtooth 0 1 0 0.5"
+"classname" "worldspawn"
+}
+{
+"spawnflags" "8"
+"noise" "sound/ambient/electricspark.wav"
+"targetname" "t18"
+"origin" "2904 -76 120"
+"classname" "target_speaker"
+}
+{
+"model" "*1"
+"target" "t18"
+"classname" "trigger_multiple"
+}
+{
+"targetname" "t1"
+"origin" "184 -1152 -310"
+"classname" "info_null"
+}
+{
+"model" "*2"
+"speed" "40"
+"lip" "32"
+"angle" "90"
+"team" "4"
+"classname" "func_door"
+}
+{
+"model" "*3"
+"lip" "32"
+"speed" "40"
+"angle" "270"
+"team" "4"
+"classname" "func_door"
+}
+{
+"model" "*4"
+"angle" "360"
+"team" "3"
+"speed" "40"
+"classname" "func_door"
+}
+{
+"model" "*5"
+"team" "3"
+"angle" "180"
+"speed" "40"
+"classname" "func_door"
+}
+{
+"origin" "-696 144 56"
+"angle" "270"
+"classname" "team_human_spawn"
+}
+{
+"angle" "315"
+"origin" "-800 0 56"
+"classname" "team_human_spawn"
+}
+{
+"origin" "1609 -920 184"
+"angle" "220"
+"classname" "info_player_intermission"
+}
+{
+"origin" "-704 -896 96"
+"angle" "90"
+"classname" "info_human_intermission"
+}
+{
+"origin" "2746 257 139"
+"angle" "210"
+"classname" "info_alien_intermission"
+}
+{
+"model" "*6"
+"team" "1"
+"angle" "270"
+"speed" "40"
+"lip" "32"
+"classname" "func_door"
+}
+{
+"model" "*7"
+"team" "1"
+"angle" "90"
+"lip" "32"
+"speed" "40"
+"classname" "func_door"
+}
+{
+"model" "*8"
+"speed" "40"
+"angle" "180"
+"team" "2"
+"classname" "func_door"
+}
+{
+"model" "*9"
+"speed" "40"
+"team" "2"
+"angle" "360"
+"classname" "func_door"
+}
+{
+"angle" "270"
+"origin" "2496 64 -8"
+"classname" "team_alien_spawn"
+}
+{
+"origin" "1128 -152 40"
+"targetname" "t19"
+"classname" "info_null"
+}
+{
+"origin" "2213 73 -32"
+"angle" "90"
+"classname" "team_alien_overmind"
+}
+{
+"origin" "2561 -384 -24"
+"classname" "team_alien_acid_tube"
+}
+{
+"origin" "2816 192 24"
+"angle" "315"
+"classname" "team_alien_spawn"
+}
+{
+"angle" "90"
+"origin" "2432 -464 240"
+"classname" "team_alien_spawn"
+}
+{
+"origin" "-176 -1152 -302"
+"targetname" "t20"
+"classname" "info_null"
+}
+{
+"targetname" "t21"
+"origin" "-176 -880 -310"
+"classname" "info_null"
+}
+{
+"origin" "512 -1152 -310"
+"targetname" "t22"
+"classname" "info_null"
+}
+{
+"targetname" "t23"
+"origin" "544 -616 -310"
+"classname" "info_null"
+}
+{
+"origin" "544 -728 -310"
+"targetname" "t25"
+"classname" "info_null"
+}
+{
+"targetname" "t26"
+"origin" "544 -224 -310"
+"classname" "info_null"
+}
+{
+"origin" "1088 -224 -310"
+"targetname" "t27"
+"classname" "info_null"
+}
+{
+"targetname" "t28"
+"origin" "1088 -576 -310"
+"classname" "info_null"
+}
+{
+"origin" "1088 -768 -310"
+"targetname" "t29"
+"classname" "info_null"
+}
+{
+"targetname" "t30"
+"origin" "1148 -1152 -310"
+"classname" "info_null"
+}
+{
+"origin" "1632 -728 -310"
+"targetname" "t31"
+"classname" "info_null"
+}
+{
+"targetname" "t32"
+"origin" "1632 -600 -310"
+"classname" "info_null"
+}
+{
+"origin" "1632 -224 -310"
+"targetname" "t33"
+"classname" "info_null"
+}
+{
+"targetname" "t34"
+"origin" "1664 -1152 -310"
+"classname" "info_null"
+}
+{
+"origin" "2048 -1152 -310"
+"targetname" "t35"
+"classname" "info_null"
+}
+{
+"targetname" "t36"
+"origin" "2448 -1152 -310"
+"classname" "info_null"
+}
+{
+"origin" "2448 -1328 -310"
+"targetname" "t37"
+"classname" "info_null"
+}
+{
+"origin" "-184 -648 -496"
+"noise" "sound/ambient/slowpulse2.wav"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "-176 -1152 -496"
+"classname" "target_speaker"
+}
+{
+"origin" "1092 -1384 -480"
+"noise" "sound/ambient/drone2.wav"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "608 -672 -496"
+"classname" "target_speaker"
+}
+{
+"origin" "1560 -672 -496"
+"noise" "sound/ambient/slowpulse2.wav"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "1088 -168 -496"
+"classname" "target_speaker"
+}
+{
+"origin" "2456 -1544 -552"
+"noise" "sound/ambient/slowpulse2.wav"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "2216 -1136 -496"
+"classname" "target_speaker"
+}
+{
+"origin" "-704 -872 48"
+"angle" "270"
+"classname" "team_human_mgturret"
+}
+{
+"angle" "360"
+"origin" "-472 -248 48"
+"classname" "team_human_mgturret"
+}
+{
+"origin" "-472 -400 48"
+"angle" "360"
+"classname" "team_human_mgturret"
+}
+{
+"angle" "270"
+"origin" "-592 8 56"
+"classname" "team_human_spawn"
+}
+{
+"origin" "1028 -1152 -310"
+"targetname" "t38"
+"classname" "info_null"
+}
+{
+"angle" "0"
+"origin" "-344 -20 36"
+"classname" "team_human_armoury"
+}
+{
+"origin" "-948 -92 24"
+"classname" "team_human_reactor"
+}
+{
+"origin" "-168 -714 202"
+"psName" "tremor/tremorspark"
+"classname" "misc_particle_system"
+}
+{
+"psName" "tremor/tremorspark"
+"origin" "-184 -714 202"
+"classname" "misc_particle_system"
+}
+{
+"origin" "-184 -806 202"
+"psName" "tremor/tremorspark"
+"classname" "misc_particle_system"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "3312 744 118"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "3314 -884 118"
+"classname" "target_speaker"
+}
+{
+"origin" "3112 -74 118"
+"noise" "sound/ambient/slowpulse2.wav"
+"spawnflags" "1"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/slowpulse2.wav"
+"origin" "192 714 248"
+"classname" "target_speaker"
+}
+{
+"spawnflags" "1"
+"noise" "sound/ambient/water1.wav"
+"origin" "1278 -1102 -54"
+"classname" "target_speaker"
+}
+{
+"origin" "1596 282 35"
+"classname" "team_alien_acid_tube"
+}
+{
+"origin" "2378 -358 -15"
+"classname" "team_alien_barricade"
+}
+{
+"origin" "1616 104 40"
+"classname" "team_alien_barricade"
+}
+{
+"message" "^5Underground Entrance^7"
+"angle" "-90.000000"
+"origin" "-180.000000 -680.000000 -184.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Underground^7"
+"angle" "-90.000000"
+"origin" "1088.000000 -192.000000 -336.000000"
+"classname" "target_location"
+}
+{
+"angle" "-90.000000"
+"message" "^1Alien Back Entrance^7"
+"origin" "2416.000000 -680.000000 80.000000"
+"classname" "target_location"
+}
+{
+"message" "^5Human Base^7"
+"origin" "-704.000000 -320.000000 176.000000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Crate Room Entrance^7"
+"origin" "-176.000000 -1784.000000 48.000000"
+"classname" "target_location"
+}
+{
+"angle" "-90.000000"
+"message" "^5Human Back Entrance^7"
+"origin" "-720.000000 -1536.000000 48.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Main Corridor^7"
+"origin" "704.000000 896.000000 96.000000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Crate Room^7"
+"origin" "-128.000000 -2624.000000 48.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Underground^7"
+"angle" "-90.000000"
+"origin" "1664.000000 -1152.000000 -336.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Greenhouse^7"
+"origin" "1760.000000 -1120.000000 64.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Greenhouse^7"
+"origin" "800.000000 -1120.000000 64.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Main Corridor^7"
+"origin" "192.000000 576.000000 96.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Main Corridor^7"
+"origin" "192.000000 -704.000000 96.000000"
+"classname" "target_location"
+}
+{
+"message" "^5Human Front Entrance^7"
+"origin" "-64.000000 -320.000000 128.000000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Crate Room^7"
+"origin" "-832.000000 -2304.000000 48.000000"
+"classname" "target_location"
+}
+{
+"angle" "-90.000000"
+"message" "^1Alien Base^7"
+"origin" "2176.000000 312.000000 128.000000"
+"classname" "target_location"
+}
+{
+"angle" "180.000000"
+"message" "^1Alien Front Entrance^7"
+"origin" "1288.000000 128.000000 128.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Underground^7"
+"angle" "-90.000000"
+"origin" "1152.000000 -1152.000000 -336.000000"
+"classname" "target_location"
+}
+{
+"angle" "90.000000"
+"message" "^7Crate Room^7"
+"origin" "512.000000 -2176.000000 48.000000"
+"classname" "target_location"
+}
+{
+"message" "^7Underground^7"
+"angle" "-90.000000"
+"origin" "512.000000 -1152.000000 -336.000000"
+"classname" "target_location"
+}
+{
+"message" "^1Underground Entrance^7"
+"angle" "90.000000"
+"origin" "2456.000000 -1520.000000 -184.000000"
+"classname" "target_location"
+}

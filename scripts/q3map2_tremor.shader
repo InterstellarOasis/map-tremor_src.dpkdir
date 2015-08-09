@@ -103,7 +103,7 @@ tremor/B6E312F539BA78F2F0EC0503C85511EE
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0000
+		map maps/q3map2_tremor/lm_0000
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
@@ -125,7 +125,7 @@ tremor/D8A2D713AC51B108C553A535F1045562
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0003
+		map maps/q3map2_tremor/lm_0003
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
@@ -147,7 +147,7 @@ tremor/6BECD3B2569973B25DCEF634EC6AD040
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0004
+		map maps/q3map2_tremor/lm_0004
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
@@ -169,7 +169,7 @@ tremor/3874D7AE45C5A01E9D83A68F1230FEEB
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0004
+		map maps/q3map2_tremor/lm_0004
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
@@ -330,7 +330,7 @@ tremor/03D200720A5F78E084D09335150EEAFF
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0000
+		map maps/q3map2_tremor/lm_0000
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
@@ -352,7 +352,7 @@ tremor/623F539E08968AA4AFD1C549AABC41DD
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0000
+		map maps/q3map2_tremor/lm_0000
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
@@ -420,7 +420,7 @@ tremor/D39F03FF472208079F1A5C6BEBBCC90D
 	
 	// Q3Map2 custom lightstyle stage(s)
 	{
-		map maps/tremor/lm_0000
+		map maps/q3map2_tremor/lm_0000
 		blendFunc GL_SRC_ALPHA GL_ONE
 		rgbGen wave sawtooth 0 1 0 0.5 // style 1
 		tcGen lightmap
