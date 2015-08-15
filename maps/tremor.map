@@ -4,7 +4,7 @@
 "_style1rgbGen" "wave sawtooth 0 1 0 0.5"
 "message" "Tremor :: Godmil and Vedacon"
 "_minLight" "5"
-"colorGrade" "gfx/tremor/colorgrading"
+"gradingTexture" "gfx/tremor/colorgrading"
 // brush 0
 {
 ( 1856 -688 288 ) ( 704 -688 288 ) ( 704 -1392 288 ) titan/asteroid_skybox 64 32 0 0.5 0.5 0 0 0

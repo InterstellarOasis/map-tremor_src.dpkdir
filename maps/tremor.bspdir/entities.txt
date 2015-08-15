@@ -5,7 +5,7 @@
 "message" "Tremor :: Godmil and Vedacon"
 "_style1rgbGen" "wave sawtooth 0 1 0 0.5"
 "classname" "worldspawn"
-"colorGrade" "gfx/tremor/colorgrading"
+"gradingTexture" "gfx/tremor/colorgrading"
 }
 {
 "spawnflags" "8"
