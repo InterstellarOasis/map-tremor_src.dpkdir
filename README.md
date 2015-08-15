@@ -67,15 +67,15 @@ Textures & Shaders:
 
 Models:
 
-* Jan “Stannum” Van der Weg
+* Jan “Stannum” Van der Weg (http://janvanderweg.com/)
 * Mike “Vedacon” MciInnerney
 
 Special thanks:
 
 * Nicolas “Jex“ Jansens <jex@orodu.net>
 * Stijn “Ingar“ Buys <ingar@osirion.org>
-* Paul “MoP” Greveson
-* Robin “OverFlow” Marshall
+* Paul “MoP” Greveson (http://www.predictable-paul.com/)
+* Robin “OverFlow” Marshall (http://bobbin.vilkacis.net)
 * Tristan “Jhrx“ Blease
 * Crimity
 * Kat
