@@ -1,7 +1,7 @@
 Tremor
 ------
 
-This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game.
+This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features the abandoned, floating husk of a former space station now infested with the presence of the alien threat.
 
 Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
 
@@ -76,6 +76,7 @@ Special thanks:
 * Stijn “Ingar“ Buys <ingar@osirion.org>
 * Paul “MoP” Greveson (http://www.predictable-paul.com/)
 * Robin “OverFlow” Marshall (http://bobbin.vilkacis.net)
+* Dan “kharnov” Floda
 * Tristan “Jhrx“ Blease
 * Crimity
 * Kat
@@ -102,5 +103,6 @@ Usage and redistribution policy: Textures may be freely downloaded, modified, an
 History
 -------
 
+* 2015-08-16:	Tremor 1.2 (Unvanquished community map)
 * 2009-12-04:	Tremulous 1.2 Beta (Gameplay preview)
 * 2006-03-31:	Tremulous 1.1.0 (Standalone)
