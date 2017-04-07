@@ -1,0 +1,2 @@
+keep maps/tremor.map
+ignore meta/tremor/tremor_web.jpg
