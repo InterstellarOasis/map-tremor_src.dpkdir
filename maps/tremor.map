@@ -23382,7 +23382,7 @@ tremor/flat_dk
 // entity
 {
 "classname" "func_door"
-"team" "4"
+"group" "4"
 "angle" "90"
 "lip" "32"
 "speed" "40"
@@ -23399,7 +23399,7 @@ tremor/flat_dk
 // entity
 {
 "classname" "func_door"
-"team" "4"
+"group" "4"
 "angle" "270"
 "speed" "40"
 "lip" "32"
@@ -23417,7 +23417,7 @@ tremor/flat_dk
 {
 "classname" "func_door"
 "speed" "40"
-"team" "3"
+"group" "3"
 "angle" "360"
 // brush
 {
@@ -23434,7 +23434,7 @@ tremor/flat_dk
 "classname" "func_door"
 "speed" "40"
 "angle" "180"
-"team" "3"
+"group" "3"
 // brush
 {
 ( 2376 -480 -64 ) ( 2440 -480 -64 ) ( 2440 -464 -64 ) tremor/door_256 -182 128 0 0.53125 -0.125 134217728 0 0
@@ -26069,7 +26069,7 @@ tremor/flat_dk
 "lip" "32"
 "speed" "40"
 "angle" "270"
-"team" "1"
+"group" "1"
 // brush
 {
 ( -288 -456 64 ) ( -288 -360 64 ) ( -288 -360 0 ) tremor/door_256 -19 0 0 0.4375 0.375 0 0 0
@@ -26086,7 +26086,7 @@ tremor/flat_dk
 "speed" "40"
 "lip" "32"
 "angle" "90"
-"team" "1"
+"group" "1"
 // brush
 {
 ( -288 -200 0 ) ( -320 -200 0 ) ( -320 -296 0 ) tremor/door_256 0 18 0 -0.125 0.4375 0 0 0
@@ -26100,7 +26100,7 @@ tremor/flat_dk
 // entity
 {
 "classname" "func_door"
-"team" "2"
+"group" "2"
 "angle" "180"
 "speed" "40"
 // brush
@@ -26117,7 +26117,7 @@ tremor/flat_dk
 {
 "classname" "func_door"
 "angle" "360"
-"team" "2"
+"group" "2"
 "speed" "40"
 // brush
 {
