@@ -26047,13 +26047,6 @@ tremor/flat_dk
 // entity
 {
 "classname" "light"
-"light" "100"
-"_color" "0.539823 0.747788 1.000000"
-"origin" "-144 40 136"
-}
-// entity
-{
-"classname" "light"
 "origin" "-688 200 152"
 "_color" "0.539823 0.747788 1.000000"
 "light" "100"
