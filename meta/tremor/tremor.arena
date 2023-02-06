@@ -1,5 +1,7 @@
 {
-	map			"tremor"
-	longname	"Tremor"
-	type		"tremulous"
+	map "tremor"
+	longname "Tremor"
+	author "Vedacon"
+	author "Godmil"
+	type "tremulous"
 }
