@@ -1,81 +1,52 @@
-Tremor
-------
+# Tremor
 
-This is a map ported from the [Tremulous](http://tremulous.net/) game to the [Unvanquished](https://www.unvanquished.net/) game. It features the abandoned, floating husk of a former space station now infested with the presence of the alien threat.
+This is a map ported from the [Tremulous](https://tremulous.net) game to the [Unvanquished](https:/unvanquished.net) game. It features the abandoned, floating husk of a former space station now infested with the presence of the alien threat.
 
-Ported from Tremulous gpp package from [http://ingar.satgnu.net/files/tremulous/base/](http://ingar.satgnu.net/files/tremulous/base/).
+It is ported from the Tremulous GPP package from [ingar.intranifty.net/files/tremulous/base](http://ingar.intranifty.net/files/tremulous/base/).
 
-This port is an Interstellar Oasis initiative: [https://github.com/InterstellarOasis/InterstellarOasis](https://github.com/InterstellarOasis/InterstellarOasis).
+This port is an Interstellar Oasis initiative: [github.com/InterstellarOasis/InterstellarOasis](https://github.com/InterstellarOasis/InterstellarOasis).
 
-Levelshot
----------
+
+## Levelshot
 
 ![Levelshot](meta/tremor/tremor_web.jpg)
 
-How-to
-------
 
-* Get the source
+## How-to
 
-```
-git clone https://github.com/InterstellarOasis/map-tremor_src.dpkdir.git
-cd map-tremor_src.dpkdir/
-```
+This package is meant to be built using [Urcheon](https://github.com/DaemonEngine/Urcheon).
 
-* Build
 
-You need the [Urcheon](https://github.com/illwieckz/Urcheon) tool.  
-You will find the dpkdir in `build/test`.
-
-```
-urcheon build
-```
-
-* Package
-
-You will find the dpk in `build/pkg`.
-
-```
-urcheon package
-```
-
-Run the map:
-
-```
-daemon -pakpath build/pkg +devmap tremor
-```
-
-Credits
--------
+## Credits
 
 Unvanquished port:
 
-* Thomas “illwieckz” Debesse <dev@illwieckz.net> (http://gg.illwieckz.net)
+* Thomas “illwieckz” Debesse <hidden email="dev [ad] illwieckz.net"/> ([gg.illwieckz.net](https://gg.illwieckz.net))
 
 Mapping:
 
 * Mike “Vedacon” McInnerney
-* Gordon “Godmil” Miller <godmil@gmail.com> (http://godmil.com/)
+* Gordon “Godmil” Miller <hidden email="godmil [ad] gmail.com"/> ([godmil.com](https://web.archive.org/web/20181110004551/http://www.godmil.com/))
 
 Textures & Shaders:
 
 * Mike “Vedacon” McInnerney
-* Randy “ydnar” Redding <ydnar@shaderlab.com> (http://www.shaderlab.com)
-* Tim “Timbo” Angus <tim@ngus.net>
-* Yves “evil lair” Allaire (http://evillair.net)
+* Randy “ydnar” Redding ([godmil.com](https://web.archive.org/web/20181110004551/http://www.godmil.com/))
+* Tim “Timbo” Angus <hidden email="tim [ad] ngus.net"/> ([timang.us](https://timang.us/))
+* Yves “evil lair” Allaire ([evillair.net](https://evillair.net))
 * Louie “KnightBK“ Doulias
 
 Models:
 
-* Jan “Stannum” Van der Weg (http://janvanderweg.com/)
-* Mike “Vedacon” MciInnerney
+* Jan “Stannum” Van der Weg ([janvanderweg.com](http://janvanderweg.com))
+* Mike “Vedacon” McInnerney
 
 Special thanks:
 
-* Nicolas “Jex“ Jansens <jex@orodu.net>
-* Stijn “Ingar“ Buys <ingar@osirion.org>
-* Paul “MoP” Greveson (http://www.predictable-paul.com/)
-* Robin “OverFlow” Marshall (http://bobbin.vilkacis.net)
+* Nicolas “Jex“ Jansens <hidden email="jex [ad] orodu.net"/>
+* Stijn “Ingar“ Buys <hidden email="ingar [ad] osirion.org"/> ([ingar.intranifty.net](http://ingar.intranifty.net))
+* Paul “MoP” Greveson ([predictable-paul.com](https://www.predictable-paul.com))
+* Robin “OverFlow” Marshall ([bobbin.vilkacis.net](http://bobbin.vilkacis.net))
 * Dan “kharnov” Floda
 * Tristan “Jhrx“ Blease
 * Crimity
@@ -85,11 +56,11 @@ Special thanks:
 * Myth
 * Roughrider
 
-Legal
------
 
-Changes by Thomas Debesse fall under the Internet Systems Consortium License:  
-http://directory.fsf.org/wiki/License:ISC
+# Legal
+
+Changes by Thomas Debesse fall under the Creative Commons Attribution 4.0 International License:  
+http://creativecommons.org/licenses/by/4.0/
 
 Assets by Tremulous contributors fall under the Creative Commons Attribution-ShareAlike 2.5 Generic License:  
 http://creativecommons.org/licenses/by-sa/2.5/
@@ -100,9 +71,9 @@ http://creativecommons.org/licenses/by-sa/4.0/
 Textures from shaderlab are subject to the terms of this notice:  
 Usage and redistribution policy: Textures may be freely downloaded, modified, and used in free maps, mods or total conversions provided this copyright notice is left intact and a link to Shaderlab is provided in the credits or read-me file. Other non-commercial applications are considered on a case-by-case basis via e-mail. All other usage requires written permission. Bulk redistribution or archival of the textures in any medium, digital or otherwise (except mapping packages for mods) is prohibited.
 
-History
--------
 
-* 2015-08-16:	Tremor 1.2 (Unvanquished community map)
-* 2009-12-04:	Tremulous 1.2 Beta (Gameplay preview)
-* 2006-03-31:	Tremulous 1.1.0 (Standalone)
+## History
+
+* 2015-08-16: Tremor 1.2 (Unvanquished community map)
+* 2009-12-04: Tremulous 1.2 Beta (Gameplay preview)
+* 2006-03-31: Tremulous 1.1.0 (Standalone)
