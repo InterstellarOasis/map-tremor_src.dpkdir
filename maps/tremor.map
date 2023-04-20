@@ -20890,6 +20890,7 @@ nexus6/flat_dk
 "modelscale" ".5"
 "model" "models/coolcrate1.ase"
 "origin" "1888 -448 -32"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
@@ -20897,6 +20898,7 @@ nexus6/flat_dk
 "model" "models/coolcrate2.ase"
 "modelscale" "0.5"
 "angle" "30"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
@@ -20904,6 +20906,7 @@ nexus6/flat_dk
 "modelscale" "0.5"
 "model" "models/coolcrate2.ase"
 "origin" "1900 -396 -60"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
@@ -20911,12 +20914,14 @@ nexus6/flat_dk
 "model" "models/coolcrate2.ase"
 "modelscale" "0.5"
 "angle" "15"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
 "modelscale" "0.5"
 "model" "models/coolcrate2.ase"
 "origin" "2572 364 4"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
@@ -20924,6 +20929,7 @@ nexus6/flat_dk
 "model" "models/coolcrate2.ase"
 "modelscale" "0.5"
 "angle" "30"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
@@ -20931,6 +20937,7 @@ nexus6/flat_dk
 "modelscale" ".5"
 "model" "models/coolcrate1.ase"
 "origin" "-432 -552 32"
+"spawnflags" "4"
 }
 {
 "classname" "misc_model"
@@ -20938,6 +20945,7 @@ nexus6/flat_dk
 "model" "models/coolcrate1.ase"
 "modelscale" ".5"
 "angle" "20"
+"spawnflags" "4"
 }
 {
 "classname" "light"
@@ -23879,6 +23887,7 @@ nexus6/flat_dk
 "modelscale" ".5"
 "model" "models/coolcrate1.ase"
 "origin" "104 848 32"
+"spawnflags" "4"
 }
 {
 "classname" "team_human_armoury"
