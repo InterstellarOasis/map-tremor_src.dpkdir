@@ -9,7 +9,7 @@ This port is an Interstellar Oasis initiative: [github.com/InterstellarOasis/Int
 
 ## Levelshot
 
-![Levelshot](meta/tremor/tremor_web.jpg)
+![Levelshot](meta/tremor/tremor.webp)
 
 
 ## How-to
