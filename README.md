@@ -74,6 +74,7 @@ Usage and redistribution policy: Textures may be freely downloaded, modified, an
 
 ## History
 
+* `2023-05-01`: _Tremor_ `1.2.3` (Unvanquished community map dpk)
 * `2023-04-21`: _Tremor_ `1.2.2` (Unvanquished community map dpk)
 * `2018-07-29`: _Tremor_ `1.2.1` (Unvanquished community map dpk)
 * `2015-08-16`: _Tremor_ `1.2` (Unvanquished community map pk3)
